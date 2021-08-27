@@ -1,0 +1,13 @@
+body{
+    background-color: #34495e;
+}
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: red;
+}
+p{
+    font-size: 25px;
+    line-height: 40px;
+    color: lawngreen;
+}
